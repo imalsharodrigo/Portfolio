@@ -3,16 +3,23 @@
     {
         "title":"Coffee Shop",
         "imageSrc":"projects/project.png",
-        "description":"This is the project made to learn Figma. It is mobile app ui design for coffee shop",
+        
         "skills":["Figma"],
         "source":"https://github.com/imalsharodrigo/Figma_pro1"
     },
     {
-        "title":"E commerce Website",
+        "title":"E commerce Website Ui Design",
         "imageSrc":"projects/project.png",
-        "description":"This is the project made to learn Figma. It is Web ui design for online shoes selling shop",
+       
         "skills":["Figma"],
         "source":"https://github.com/imalsharodrigo/Figma_pro2"
+    },
+    {
+        "title":"E commerce Website",
+        "imageSrc":"projects/project.png",
+        
+        "skills":["HTML","CSS","REACT"],
+        "source":"https://github.com/imalsharodrigo/ECommerceFrontEnd"
     }
 
 ]
