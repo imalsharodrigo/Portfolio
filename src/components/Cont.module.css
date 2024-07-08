@@ -12,6 +12,7 @@
 }
 
 .content{
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -39,9 +40,11 @@
     color: antiquewhite;
 }
 .profileImg{
-    width:30%;
+    
+    width: 25%;
     z-index: 1;
     border-radius: 50%;
+    border: 2px solid rgb(66, 6, 66);
     animation-name: floating;
     animation-duration: 3s;
     animation-iteration-count: infinite;
@@ -88,6 +91,7 @@
 @media screen and (max-width:840px){
     .container{
         flex-direction: column-reverse;
+        text-align: center;
     }
     .content{
         align-items: center;
